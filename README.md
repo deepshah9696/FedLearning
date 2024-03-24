@@ -6,12 +6,17 @@ To remove the dependency on the server, we leverage ZK-Proofs to make the server
 
 
 Mintclub erc20 tokens are incentivized to the user who verify the zk proofs 
+
 ![WhatsApp Image 2024-03-24 at 10 15 08](https://github.com/deepshah9696/FedLearning/assets/136230373/300933dc-f6b6-490d-a1a3-e29a3a770642)
+
 Mint club contract deployed on sepolia
  https://sepolia.etherscan.io/token/0x5BDe71681b43B08de4580E7476829c7907Dd786C
 
 
 Contract deployed on thundercore testnet 0xD1998CA0000f01442f54Ca8bF35017f43aa6ef26
+
 Contract deployed on ten testnet  0xD1998CA0000f01442f54Ca8bF35017f43aa6ef26 
+
 Contract deployed on zircuit testnet 0xD1998CA0000f01442f54Ca8bF35017f43aa6ef26
+
 Contract deployed on scroll testnet 0xD1998CA0000f01442f54Ca8bF35017f43aa6ef26
