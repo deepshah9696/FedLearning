@@ -4,6 +4,7 @@ Federated Learning is a privacy-preserving scheme to train deep learning models.
 
 To remove the dependency on the server, we leverage ZK-Proofs to make the server trustless. The Zk-Proofs are then shown publicly so that anyone can verify whether or not the computation was done correctly.
 
+Ora zk oracles blog https://medium.com/@kenilshah1505/zk-oracles-b0960266d6e6
 
 Mintclub erc20 tokens are incentivized to the user who verify the zk proofs 
 
@@ -13,10 +14,10 @@ Mint club contract deployed on sepolia
  https://sepolia.etherscan.io/token/0x5BDe71681b43B08de4580E7476829c7907Dd786C
 
 
-Contract deployed on thundercore testnet 0xD1998CA0000f01442f54Ca8bF35017f43aa6ef26
+Verifier Contract deployed on thundercore testnet 0xD1998CA0000f01442f54Ca8bF35017f43aa6ef26
 
-Contract deployed on ten testnet  0xD1998CA0000f01442f54Ca8bF35017f43aa6ef26 
+Veirfier deployed on ten testnet  0xD1998CA0000f01442f54Ca8bF35017f43aa6ef26 
 
-Contract deployed on zircuit testnet 0xD1998CA0000f01442f54Ca8bF35017f43aa6ef26
+Verifier deployed on zircuit testnet 0xD1998CA0000f01442f54Ca8bF35017f43aa6ef26
 
-Contract deployed on scroll testnet 0xD1998CA0000f01442f54Ca8bF35017f43aa6ef26
+Verifier deployed on scroll testnet 0xD1998CA0000f01442f54Ca8bF35017f43aa6ef26
