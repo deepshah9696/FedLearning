@@ -20,4 +20,4 @@ Veirfier deployed on ten testnet  0xD1998CA0000f01442f54Ca8bF35017f43aa6ef26
 
 Verifier deployed on zircuit testnet 0xD1998CA0000f01442f54Ca8bF35017f43aa6ef26
 
-Verifier deployed on scroll testnet 0xD1998CA0000f01442f54Ca8bF35017f43aa6ef26
+Verifier deployed on scroll testnet 0xEB9b86e8B78c61D2b6BC693f9630B57F05eB7386
